@@ -79,27 +79,19 @@ The Excel workbook contains separate worksheets for each part of the assignment:
 - Number Formatting
 - Conditional Formatting
 
-## Screenshots
-
 Screenshots of the completed solutions are included in this repository to show the work completed for each task.
 
-### Handling Missing Values
-![Handling Missing Values](screenshot1.png)
+### Handling Missing Values(screenshot1.png)
 
-### Correcting Inconsistent Data
-![Correcting Inconsistent Data](screenshot2.png)
+### Correcting Inconsistent Data(screenshot2.png)
 
-### Removing Duplicates
-![Removing Duplicates](screenshot3.png)
+### Removing Duplicates(screenshot3.png)
 
-### Splitting and Merging Data
-![Splitting and Merging Data](screenshot4.png)
+### Splitting and Merging Data(screenshot4.png)
 
-### Number Formatting
-![Number Formatting](screenshot5.png)
+### Number Formatting(screenshot5.png)
 
-### Conditional Formatting
-![Conditional Formatting](screenshot6.png)
+### Conditional Formatting(screenshot6.png)
 
 ## Conclusion
 
